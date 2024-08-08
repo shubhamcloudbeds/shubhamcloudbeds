@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shubhamcloudbeds
 - 👀 I’m interested in answers driven by data. 
 - 🌱 I’m currently learning Machine Learning on Time series.
-- 💞️ I’m looking to collaborate on Computer vision, Chatbots, Natural Processing units. 
+- 💞️ I’m looking to collaborate on Computer vision, Chatbots, Natural Language Processing. 
 - 📫 Available At shubham.gogri@cloudbeds.com 
 
 <!---
